@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1456496350 source:h:\code\learning\image-processing\main.cpp
+	"src/imageprocessing.h"
+	<iostream>
+
+1456496364 h:\code\learning\image-processing\src\imageprocessing.h
+
+1456496547 source:h:\code\learning\image-processing\src\imageprocessing.cpp
+	"imageprocessing.h"
+	<iostream>
+	<cstdlib>
+	<cstdio>
+
